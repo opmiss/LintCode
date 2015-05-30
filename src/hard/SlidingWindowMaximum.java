@@ -28,7 +28,6 @@ public class SlidingWindowMaximum {
             array[a] = array[b]; 
             array[b] = t; 
         }
-        
         public void add(Element e){
             e.pos = size; 
             array[size++] = e; 
