@@ -2,9 +2,9 @@
 My solutions to hard problems on LintCode
 
 * [Number of Islands II](/src/hard/NumberIslands2.java)
-* [Scramble String]()
+* [Scramble String](/src/hard/ScrambleString.java)
 * [Submatrix Sum](/src/hard/SubmatrixSum.java)
-* [Subarray Sum II]()
+* [Subarray Sum II](/src/hard/SubarraySum.java)
 * [Maximum Gap](/src/hard/MaximumGap.java)
 * [Valid Number](/src/hard/ValidNumber.java)
 * [Longest Increasing Continuous subsequence II](/src/hard/LongestIncreassing.java) 
