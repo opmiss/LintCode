@@ -1,7 +1,7 @@
 # LintCode
 My solutions to hard problems on LintCode
 
-* [Copy Books]()
+* [Copy Books](/src/hard/CopyBooks.java)
 * [Post Office Problem](/src/hard/PostOfficeProblem.java)
 * [Number of Islands II](/src/hard/NumberIslands2.java)
 * [Scramble String](/src/hard/ScrambleString.java)
